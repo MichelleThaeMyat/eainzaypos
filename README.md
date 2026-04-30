@@ -198,10 +198,4 @@ VITE_API_URL=http://localhost:5000/api
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
 
-For support, email support@eainzaypos.com or open an issue on GitHub.
-
----
-
-**Built with ❤️ by Michelle Thae Myat**
